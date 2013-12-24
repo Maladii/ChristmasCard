@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jsmoothproject>
+<currentDirectory>${EXECUTABLEPATH}</currentDirectory>
+<embeddedJar>false</embeddedJar>
+<executableName>ChristmasCard.exe</executableName>
+<initialMemoryHeap>-1</initialMemoryHeap>
+<maximumMemoryHeap>-1</maximumMemoryHeap>
+<maximumVersion></maximumVersion>
+<minimumVersion></minimumVersion>
+<skeletonName><![CDATA[
+<none>]]>
+</skeletonName>
+</jsmoothproject>
